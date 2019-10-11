@@ -1,0 +1,291 @@
+Today I Found Out
+RSS
+Facebook
+YouTube
+Twitter
+Pinterest
+Google+
+Instagram
+Tumblr
+Menu
+Home
+Surprise
+Kids
+Videos
+TodayIFoundOut YouTube
+Educational Videos
+Flick Facts
+Kid’s Quest Learning
+Articles
+Infographics
+Surprise
+Answers
+Animals
+Entertainment
+History
+Language
+People
+Science
+Misc.
+Myths
+This Day in History
+Announcements
+Most Popular
+Podcasts
+The BrainFood Show
+Forums
+Gear
+Quick Facts
+Wise Book of Whys
+Contact
+
+Americans and The Date Format and How That Relates to Data Storage, Holy Wars and Soft-Boiled Eggs
+October 13, 2014 Melissa 12 comments
+M. Seager asks: Why do Americans write dates Month/Day/Year and most others Day/Month/Year?
+declaration_of_independence
+
+In the United States, the date format begins with the month and ends with the year (MM/DD/YYYY), and this arrangement is relatively unique. In most of the rest of the world, the day is written first and the year last (DD/MM/YYYY), although in some places like China, Korea and Iran, this order is flipped (YYYY/MM/DD).
+
+Regardless, no one seems to know why Americans first started putting the month first. It has been hypothesized that it is simply because at certain times it’s more convenient to first know the month than the day for context, and year being less significant to know first in some contexts has it ending up last. Thus, before people were too overly concerned with the likes of spelling, grammar, and conventions such as this, they just wrote it as was most convenient in whatever context.
+
+This idea, however, has little in the way of direct, documented evidence backing it as a potential origin, with the best such support simply being that some of the first instances of the month / day / year format showing up also sometimes has in the same document, written by the same author, the more common day / month / year format. In fact, in at least one case we found, both formats even occurred in the same sentence!
+
+That said, beyond pure speculation, how this practice definitively started is anybody’s guess at this point, but what is clear is United States citizens have been doing it as long as there has been a United States.
+
+
+ 
+To wit, one of the earliest examples I found is on the Declaration of Independence, with its large “06-10-1994” inscribed at the top –a format that was copied by John Dunlap, the printer who made the 200 broadsides that were later distributed in the colonies. (Interesting side fact, the Declaration of Independence was not signed in July as is commonly stated, but rather in August of that year.)
+
+Apparently the founders were fond of this format, as it is seen on at least some of the Federalist Papers, as well as the Constitution, signed by 38 of the delegates to the Constitutional Convention on “September 17, 1787.”
+
+However, month-first was not exclusively used and the day-first format is also seen in documents from the 1800s. In an 1824 speech to Maryland’s House of Delegates, John McMahon listed the date as “28th January 1824,” and even later, in this narrative from 1847, the author uses both formats in the same sentence (“from Jan. 1, 1769, to 1 Jan. 1770.”
+
+During the Civil War, although President Lincoln wrote the date formally in his hand-written draft of the Emancipation Proclamation, in the first printed version, it was written at the top “January 1, 1865.” Note that the date was a typo, as the Proclamation was to become effective on January 1, 1863.
+
+In the Articles of Agreement Relating to the Surrender of the Army of Northern Virginia, the document that officially ended the Civil War, “April 10, 1865” is written at the top, but then in General Lee’s order dismissing his troops, he wrote “10th April 1865.”
+
+By the last quarter of the 19th century, Mark Twain was writing the date month-first in his correspondence with friends, and by the early part of the 20th century, American newspapers reporting on the sinking of the Titanic had the month-first as well.
+
+Of course, for the most famous speech of his career, President Franklin D. Roosevelt put the month first when he intoned, “yesterday, December 7, 1941 – a date which will live in infamy.”
+
+
+By the latter half of the 20th century, month-first appears to have become standard for much of the country, as memorialized by the famous CBS news anchor, Walter Cronkite, who signed off from every broadcast with “and that’s the way it is,” and then day of the week and the date, month first.
+
+Although we find it normal, our month-first arrangement to the rest of the world makes little sense, being what one commentator has called middle-endian (computer speak for bass-ackwards).
+
+Endian refers to the organization of binary data storage whereby the most significant byte (8-bit unit of data) is typically stored first (in the smallest address, on the left) or last (in the largest address, on the right). If stored first, it is referred to as “big endian” and last, it is called little-endian.
+
+When it comes to bytes of numbers, the first (left) digit is usually the most significant and will have the greatest value (e.g., if you had a numeric number 1,234, the “1” represents 1000 – by far the largest value in the number). This is the same with dates, where the year, which represents 12 months and 365 days, has the greatest “value,” and the day, the lowest.
+
+In putting dates into bytes, in the big-endian format it would be written as YYYY/MM/DD, while in the little-endian format, it would read DD/MM/YYYY. By putting the month first, we’ve screwed this orderly system up by putting the middle value on an end (middle-endian) – and annoyed a large portion of the planet in the process.
+
+Interestingly, computer programmers didn’t invent the term endian, they borrowed it from Jonathan Swift’s Gulliver’s Travels (1726). In Chapter 4, Gulliver learns that a source of discord among the Lilliputians and the Blefuscuans was a royal decree regarding the proper way to break into a soft-boiled egg:
+
+The emperor . . .published an edict, commanding all his subjects, upon great penalties, to break the smaller end of their eggs.
+
+Some of the populace resented this, and a bloody war ensued between the big-endians who wanted to be free to break their eggs as they chose, and the little-endians who followed the emperor.
+
+In staging this silly egg war, Swift satirized holy wars – such as those that raged between Protestants and Catholics during the 16th and 17th centuries – and more particularly their root causes. At least one commentator has opined that egg breaking may be a nod to the relatively slight variations between Protestant and Catholic communion rites during that period. In any event, clearly Swift was saying that arguing over such trivial matters is absurd, and everyone should be free to choose.
+
+Notably, however, when it comes to memory order, some argue that to avoid anarchy, even though it’s trivial, the community should get together and choose once and for all to either go big-endian or little, but not both.
+
+Were this to be proposed for date formats, clearly the rest of the world would quickly vote to eliminate our middle-endian method. But being Americans, like Swift’s big-endians, I imagine that “rather than submit to break [our] eggs at the smaller end,” we’d flee to Blefuscu where as “true believers [we’d] break [our] eggs at the convenient end.”
+
+If you liked this article, you might also enjoy our new popular podcast, The BrainFood Show (iTunes, Spotify, Google Play Music, Feed), as well as:
+
+“Math” vs. “Maths” and Why Mathematics has an ‘S’ on the End
+Why We Divide the Day Into Seconds, Minutes, and Hours
+Why We Have a Seven Day Week and the Origin of the Names of the Days of the Week
+Ben Franklin’s Proposal of Something Like Daylight Saving Time was Written as a Joke
+The Evolution of the Modern Day Calendar
+Expand for References
+Archive Mark Twain
+Articles of Agreement Relating to the Surrender of the Army of Northern Virginia
+Cyber Forensics
+Date format by country
+Declaration of Independence
+Documents from the Continental Congress
+Emancipation Proclamation (handwritten)
+Emancipation Proclamation (printed)
+Endianness
+European Wars of Religion
+The Federalist Papers
+General Order # 9
+Gulliver’s Travels
+Mark Twain’s Letters 1876-1885
+Narrative of Events
+One little endian, two little endians
+On Holy Wars and a Plea for Peace
+Pearl Harbor Speech: Day of Infamy
+Remarks of John McMahon
+Titanic Exhibition
+Titanic Newspaper Articles
+U.S. Constitution Signed
+Walter Cronkite
+Why do Americans write the month before the day?
+ Ads by Revcontent
+From the Web
+Do This Immediately if You Have Diabetes in Tokyo (Watch)
+Diabetes Remedy
+Secret of Indian Beauties Has Been Revealed
+Inspiredot
+Celeb Couples You Never Knew Were a Thing
+Inspiredot
+10 Products You Must Have in Your Life
+Inspiredot
+What Actually Made These Stars So Popular So Fast
+Inspiredot
+You'll Look at Your Body Differently After Reading These Facts
+Inspiredot
+Stars Who Rarely Ever Change Their Wardrobe
+Inspiredot
+Food That Will Eat Your Paycheck
+Inspiredot
+Photos of Actual Celebrity Doubles
+Inspiredot
+  
+Share the Knowledge!	Facebooktwittergoogle_plusredditpinteresttumblrmail	
+Print Friendly, PDF & Email
+Enjoy this article? Join over 50,000 Subscribers getting our FREE Daily Knowledge and Weekly Wrap newsletters: 
+email address
+ 
+
+Subscribe Me To:  Daily Knowledge  |   Weekly Wrap
+Answers
+Articles
+History
+12 comments
+Kabal
+10-06-1994 3:30 am
+
+http://4.bp.blogspot.com/-DvR9GRAGjJI/Uiy9exi-5ZI/AAAAAAAAG3o/Qw57AvZRb88/s1600/America.png
+
+Reply
+Rebecca
+October 13, 2015 1:16 pm
+
+I once almost got in trouble in Hong Kong because they wrote the expiration date on my visa as “4/3/79”, which being American, I took to mean “April 3, 1979”. But when I went to renew my visa, they told me I was already a month late! I tried to explain the American convention of writing dates and they were extremely sceptical. I found it surprising that a visa office had never encountered this before.
+
+Reply
+Joe Celko
+November 20, 2015 9:12 am
+
+You should follow ISO-8601 rules for displaying temporal data (https://xkcd.com/1179/). This is “yyyy-mm-dd” with the dashes, not slashes. The reasons are simple; this string format sorts correctly. The MySQL programming language also uses “yyyy-mm-00” for an entire month within a year and “yyyy-00-00” for the year. It is not standard yet, but is gaining support. Time values use “00:00:00…” to “23:59:59.9..”; note that there is no 24:00:00 Hrs because the ISO model is based on half-open intervals. But some software will “round” 24:00:00 to 00:00:00 of the next day, sort of like converting 5' 12? to 6 feet.
+
+Reply
+Adrian
+May 2, 2016 6:36 am
+
+It really depends on how you look at it. You could say the months represent 365 days in a year or just 12 months in a year. If looking at the 365 point, DD-MM-YYYY is logical, with day ranging from 1-28 to 31, months representing the 365, and years representing infinite, so small-middle-large. But from the 12 point of view, MM-DD-YYYY is just as logical because months are 1-12, days are 1-28 to 31, and year is infinite, so small-middle-large again. So going by actual numbers, America isn’t the middle-endians. Our max date format would be 12-31-2016 compared to 31-12-2016. The only way the DD-MM-YYYY format would not be middle-endian is if the months were actually written in 365 format, so 31-365-2016 or leap year 31-366-2016, which why include the month day if your including the year day?
+
+So again, it is all in how you look at it. It is big-endian vs small-endian, with a subgroup of small-endians debating what part of the small end is the small end, because we like being difficult. ??
+
+Reply
+Harun
+November 20, 2016 4:19 am
+
+If we want to express specific time moment how it would be ; SS:MM:HH:DD:MM:YYYY. Ordering something according to sequence or first come get first place is natural and we everybody accept it. Therefore people seem putting DAY first more comfortable
+
+Reply
+Ken Lombardo
+September 19, 2017 3:34 pm
+
+I always thought the reason was much simpler: When we speak in English and say our birth date, we say “it’s April 10, 1962” where as in Spanish we speak, “es el diez de abril, 1962”. so the writing convention followed the way we speak.
+
+Reply
+Robin Rhaney
+October 14, 2017 2:10 am
+
+The surrender of Lee’s army (of Northern Virginia) was not the official or formal end of the Civil War. The converse in fact, it was the popular end date, and still is, but the war carried on for several more weeks.
+
+Reply
+John
+October 15, 2017 2:38 am
+
+I’m British, so I’ve grown up with the format of DD/MM/YYYY. It has always made sense to me and couldn’t understand why Americans chose to put the month first. I assumed it was down to the way the dates were spoken. July 4th being an obvious example. Here we would say 4th of July.
+I’m also a computer programmer. So I come across the American format on a daily basis. Either because server Admins forgot to change their date formats or, as is becoming increasing more likely, couldnt be bothered. It has got to the point where i always assume all date data i deal with could be in any format.
+Having said earlier that the american format doesnt make sense, i have to also say the DD/MM/YYYY format also doesn’t make sense when you start to include times. It will go small endian and change to big endian half way through
+
+Reply
+creeper
+October 22, 2017 7:09 am
+
+The airline industry uses a unique format…dd/MO/yr. Today’s date entered into an airline computer would show as 22OCT17.
+
+This format is perfect. It follows the logical sequence but the month, in all caps, stands out. Thirty years after I got out of the business I still use it.
+
+Reply
+art guerrilla
+October 24, 2017 11:28 am
+
+there is one and only one method of writing dates which is both unambiguous and eminently HUMAN readable…
+
+(that we seem weirdly obsessed with making dates MACHINE friendly is a minor symptom of what is wrong with this profit-uber-alles ‘civilization’ (sic)(k)…)
+
+tue24oct2017
+
+is absolutely and unambiguously readable/understandable by HUMANS, EVEN RUN TOGETHER with no separation, commas, etc…
+
+you are welcome…
+
+Reply
+Darwin
+January 9, 2018 1:56 pm
+
+ISO 8601 is *the* international standard format for representing dates (and times).
+
+Reply
+Leave a Reply
+Your email address will not be published. Required fields are marked *
+
+Comment 
+
+Name * 
+
+Email * 
+
+Website 
+
+Custom Search
+ 
+Join Over 50,000 Subscribers
+email address
+Subscribe Me To:
+	Daily Knowledge
+	Weekly Wrap
+Find Us On YouTube!
+Subscribe today to check out our free Daily Knowledge Youtube video series! 
+
+
+Stalk Us!
+Like us on Facebook
+ Follow on Pinterest Follow on Twitter Follow on Pinterest Follow on Pinterest
+Add to Kindle
+Check Out Our New Book, The Wise Book of Whys: Print | Kindle | Nook | Audiobook
+New Stuff
+ How Do Sodas in Outdoor Vending Machines Not Freeze in Winter?
+ The Greatest Practical Joke and the Last Laugh
+ That Time the British Rioted for Three Months Over the Cost of Theater Tickets
+ Lord Minimus- The Renaissance Dueling Dwarf
+ Who Started the Lizard People Conspiracy Theory?
+ That Time a Major Studio Intentionally Made a Crappy “Fantastic Four” Movie and Why Superheroes Wear Their Underwear on the Outside
+ What Exactly Happens When the Queen Dies?
+
+Popular Posts
+Tonsil-Stones What Those Nasty White Chunks That Sometimes Come From Your Throat Are
+Englrish The Difference Between a Fact and a Factoid
+jabulani soccer ball The Origin of the Word “Soccer”
+ Marilyn Monroe was Not Even Close to a Size 12-16
+Hiroo Onoda A Japanese Soldier Who Continued Fighting WWII 29 Years After the Japanese Surrendered, Because He Didn’t Know
+ How Earth Got Its Name
+Eye Floaters What Causes “Eye Floaters”
+Home
+TIFO Gear
+Daily Knowledge Newsletter
+Contact Us
+Write for Us
+F.A.Q.
+Who We Are
+Privacy Policy
+About
+ 
